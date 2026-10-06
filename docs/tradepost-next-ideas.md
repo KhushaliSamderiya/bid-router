@@ -1,10 +1,6 @@
 # Tradepost: 3 Ideas for What We Could Build Next
 
-*By [Your Name]. Written after reading the public site, FAQ, and the Core Marketplace & Exchange role. I only had public information, so I may have details wrong. Treat these as conversation starters, not a critique.*
-
----
-
-## 0. What I built in an hour
+## 0. Quick Prototype
 
 **Net-Proceeds Bid Router** (link to repo / demo): given an item, a seller location, and a set of partner bids, it ranks bids by what the seller actually nets, not by headline price.
 
