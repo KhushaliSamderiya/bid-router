@@ -2,7 +2,7 @@
 
 ## 0. Quick Prototype
 
-**Net-Proceeds Bid Router** (link to repo / demo): given an item, a seller location, and a set of partner bids, it ranks bids by what the seller actually nets, not by headline price.
+**Net-Proceeds Bid Router** https://github.com/KhushaliSamderiya/bid-router: given an item, a seller location, and a set of partner bids, it ranks bids by what the seller actually nets, not by headline price.
 
 Net proceeds = bid price − shipping cost − insurance − expected cost of delay or risk
 
