@@ -50,4 +50,4 @@ All rates and market makers are **mock data**. This is a thinking tool, not a mo
 - Score market makers on dispute rate and time-to-confirm
 - Backtest against historical orders to measure the dollar lift over "pick the top bid"
 
-See [ideas for next steps](link-to-ideas-doc) for more.
+See [ideas for next steps](docs/tradepost-next-ideas.md) for more.
